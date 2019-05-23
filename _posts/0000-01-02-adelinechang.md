@@ -1,6 +1,6 @@
 ---
 layout:slide
-title: "Welcom to our second slide!"
+title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+This is our second slide! My favorite word is K!
